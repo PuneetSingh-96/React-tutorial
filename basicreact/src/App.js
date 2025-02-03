@@ -1,6 +1,11 @@
+import New from './New';
 function App() {
   return (
-    <h1>React-Tutorial</h1>
+    <>
+    <New/>
+    <h1>React-Basic</h1>
+    </>
+    
   );
 }
 

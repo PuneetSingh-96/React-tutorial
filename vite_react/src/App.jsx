@@ -1,8 +1,12 @@
+import New from "./new"
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <h1>Vite-React</h1>
+    <>
+    <New/>
+    <h3>Lorem ipsum dolor sit amet.</h3>
+    </>
   )
 }
 
